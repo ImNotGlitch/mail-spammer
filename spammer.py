@@ -25,4 +25,4 @@ for _ in range(times):
     else:
         print("Bad Requests")
 
-print("Todos os emails foram enviados!")
+print("Todos os requests foram enviados com sucesso!")
