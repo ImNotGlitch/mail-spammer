@@ -8,5 +8,5 @@ python spammer.py
 ```
 # OBS
 ```lmao
-  The owner said it was fixed but it was never fixed.
+  This script is not working anymore.
 ```
